@@ -19,5 +19,11 @@ wget https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.0.0-amd
 7. ClearLinux
 wget https://cdn.download.clearlinux.org/releases/35000/clear/clear-35000-live-desktop.iso
 
-8. Windows10
-wget https://www.itechtics.com/?dl_id=133
+8. Windows10 64bit
+wget https://bit.ly/3AbrSHL
+
+9. Windows XP 64bit
+wget https://download.microsoft.com/download/8/1/d/81d1f546-f951-45c5-964d-56bdbd758ba4/w2k3sp2_3959_usa_x64fre_spcd.iso
+
+10. Windows 7 64bit
+wget https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso
